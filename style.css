@@ -3,6 +3,7 @@
 :root {
     --bgColor:#18181B;
     --accentColor: #7451DC;
+    --fontColor: #FFFFFF;
     --font: 'Karla', sans-serif;
 }
 
@@ -40,6 +41,7 @@ body{
     display: block;
     background-color: var(--accentColor);
     color: var(--bgColor);
+    font-color: var(--fontColor);
     font-family: var(--font);
     text-align: center;
     margin-bottom: 20px;
